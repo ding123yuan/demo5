@@ -52,6 +52,11 @@ yesButton.addEventListener("click", function() {
         <div class="yes-screen">
             <h1 class="yes-text">爱你❤！！( >᎑<)♡︎ᐝ</h1>
             <img src="image/hug.png" alt="拥抱" class="yes-image">
+            <a href="https://ding123yuan.github.io/demo4/%E4%BB%A3%E7%A0%81%E8%A1%A8%E8%BE%BE%E7%88%B1.html" tex>
+            <button>
+            再点一下呗
+            
+            </button></a>
         </div>
     `;
 
